@@ -52,7 +52,7 @@
                     </div>
                     <!-- Submit button -->
                     <button type="submit" class="btn btn-primary btn-block mb-4" :disabled="!terms">Sign Up</button>
-                    <p class="mb-5 pb-lg-2" style="color: #393f81; line-height: 5;">
+                    <p class="mb-5 pb-lg-2" style="color: #393f81;">
                       Vous avez encore <a href="/Login" style="color: #393f81;">connecter votre compte</a>
                     </p>
                   </form>
@@ -65,53 +65,81 @@
       <!-- Section: Design Block -->
   
       <Modal :show="showModal" @close="showModal = false" title="Conditions Générales d'Utilisation de la Plateforme TAXCONTROL">
-        <p>
+        <p style="line-height: 1.5;">
 1. Introduction
+<br>
 Les présentes conditions générales d'utilisation (CGU) régissent l'accès et l'utilisation de la plateforme TAXCONTROL (ci-après dénommée "la Plateforme"). En accédant à la Plateforme, vous acceptez d'être lié par ces CGU.
 <br>
 2. Accès à la Plateforme
+<br>
 2.1 Inscription et Compte Utilisateur
+<br>
 Pour utiliser les services de la Plateforme, l'utilisateur doit créer un compte en fournissant des informations personnelles exactes et complètes, telles que le nom, l'adresse e-mail et un mot de passe sécurisé.
+<br>
 2.2 Sécurité du Compte
+<br>
 L'utilisateur est responsable de la confidentialité de ses identifiants de connexion et de toutes les activités effectuées sous son compte. Toute utilisation non autorisée de votre compte doit être signalée immédiatement à TAXCONTROL.
 <br>
 3. Utilisation des Services
+<br>
 3.1 Description des Services
+<br>
 La Plateforme offre divers services liés à la gestion fiscale, incluant l'analyse de dossiers fiscaux, la génération de rapports et l'évaluation des critères de contrôle fiscal.
+<br>
 3.2 Soumission des Données
+<br>
 L'utilisateur doit fournir des données précises et complètes pour l'analyse fiscale. La soumission de données incorrectes ou incomplètes peut entraîner des résultats erronés ou le refus de prestation de services.
 <br>
 4. Obligations de l'Utilisateur
+<br>
 4.1 Conformité aux Lois
+<br>
 L'utilisateur s'engage à utiliser la Plateforme conformément à toutes les lois et réglementations applicables.
+<br>
 4.2 Utilisation Éthique
+<br>
 L'utilisateur ne doit pas utiliser la Plateforme pour des activités illégales, frauduleuses ou nuisibles.
 <br>
 5. Droits et Responsabilités de TAXCONTROL
+<br>
 5.1 Modification des Services
+<br>
 TAXCONTROL se réserve le droit de modifier ou d'interrompre, temporairement ou définitivement, les services de la Plateforme avec ou sans préavis.
+<br>
 5.2 Sécurité des Données
+<br>
 TAXCONTROL met en œuvre des mesures de sécurité pour protéger les données des utilisateurs, mais ne peut garantir une sécurité absolue en cas de cyberattaques ou de failles de sécurité imprévues.
 <br>
 6. Propriété Intellectuelle
+<br>
 6.1 Contenu de la Plateforme
+<br>
 Tous les contenus de la Plateforme, y compris les textes, graphiques, logos, et logiciels, sont la propriété de TAXCONTROL et sont protégés par les lois sur la propriété intellectuelle.
+<br>
 6.2 Licence d'Utilisation
+<br>
 TAXCONTROL accorde à l'utilisateur une licence limitée, non exclusive et non transférable pour accéder et utiliser la Plateforme à des fins personnelles ou professionnelles conformément aux présentes CGU.
 <br>
 7. Limitation de Responsabilité
+<br>
 7.1 Exactitude des Informations
+<br>
 TAXCONTROL ne garantit pas que les informations fournies sur la Plateforme soient exactes, complètes ou à jour. L'utilisateur utilise ces informations à ses propres risques.
+<br>
 7.2 Dommages
+<br>
 TAXCONTROL ne sera en aucun cas responsable des dommages directs, indirects, accessoires, spéciaux ou consécutifs résultant de l'utilisation ou de l'incapacité à utiliser la Plateforme.
 <br>
 8. Résiliation
+<br>
 TAXCONTROL se réserve le droit de suspendre ou de résilier l'accès de l'utilisateur à la Plateforme en cas de violation des présentes CGU.
 <br>
 9. Modifications des CGU
+<br>
 TAXCONTROL peut modifier les présentes CGU à tout moment. Les modifications entreront en vigueur dès leur publication sur la Plateforme. Il est de la responsabilité de l'utilisateur de consulter régulièrement les CGU.
 <br>
 10. Contact
+<br>
 Pour toute question ou réclamation concernant les présentes CGU, veuillez contacter TAXCONTROL à l'adresse suivante : support@taxcontrol.com.
 <br>
 En utilisant la Plateforme, vous reconnaissez avoir lu, compris et accepté les présentes conditions générales d'utilisation.</p>
