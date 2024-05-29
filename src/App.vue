@@ -1,7 +1,7 @@
 <template>
   <nav>
     <router-link to="/">Islam</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/about">youuuunes</router-link>
   </nav>
   <router-view/>
 </template>
