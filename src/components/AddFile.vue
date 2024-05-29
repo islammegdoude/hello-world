@@ -311,7 +311,7 @@
                     <!-- ********************************************************    3    ******************************************************** -->
                     <div v-if="step === 4">
                         <!-- title 1 -->
-                        <h3>3. les déclarations et les paiements sont faites régulièrement ?</h3>
+                        <h3>3. les déclarations et les paiements sont fait régulièrement ?</h3>
                         <div class="row align-items-center pt-4 pb-3">
                             <!-- card  -->
                             <div class="row">
@@ -720,7 +720,7 @@
                     <!-- ********************************************************    7    ******************************************************** -->
                     <div v-if="step === 8">
                         <!-- title 7 -->
-                        <h3>7. Cessation d’activité ou liquidation judiciaire</h3>
+                        <h3>7. l’importance de la marge bénéficiaire brute MBB = CA/ les achats</h3>
                         <div class="row align-items-center pt-4 pb-3">
                             <!-- card  -->
                             <div class="row">

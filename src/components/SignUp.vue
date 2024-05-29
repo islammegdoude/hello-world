@@ -52,7 +52,7 @@
                     </div>
                     <!-- Submit button -->
                     <button type="submit" class="btn btn-primary btn-block mb-4" :disabled="!terms">Sign Up</button>
-                    <p class="mb-5 pb-lg-2" style="color: #393f81;">
+                    <p class="mb-5 pb-lg-2" style="color: #393f81; line-height: 1.5;">
                       Vous avez encore <a href="/Login" style="color: #393f81;">connecter votre compte</a>
                     </p>
                   </form>
