@@ -10,7 +10,12 @@
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.3"
+    "vue-router": "^4.0.3",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "bootstrap-vue": "^2.23.1",
+    "v-pagination-3": "^0.1.7",
+    "@popperjs/core": "^2.11.8"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
