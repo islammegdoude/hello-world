@@ -104,7 +104,7 @@ export default {
             this.data=[
             {
             "id": 1,
-            "nif": "11111",
+            "nif": "111112525",
             "type": "111",
             "activite": "111",
             "date": "2024-05-07T23:00:00.000Z",
