@@ -1291,13 +1291,13 @@
                                                     <input class="form-check-input" type="radio" v-model="C12Year1"
                                                         name="C12Year1" id="C12Year1oui" value="oui" />
                                                     <label class="form-check-label" for="C12Year1oui">Il y a
-                                                        Déficitaire</label>
+                                                        Deficit</label>
                                                 </div>
                                                 <div class="col-auto">
                                                     <input class="form-check-input" type="radio" v-model="C12Year1"
                                                         name="C12Year1" id="C12Year1non" value="non" />
                                                     <label class="form-check-label" for="C12Year1non">il n'y a pas
-                                                        Déficitaire</label>
+                                                        Deficit</label>
                                                 </div>
                                             </div>
                                         </div>
@@ -1315,13 +1315,13 @@
                                                     <input class="form-check-input" type="radio" v-model="C12Year2"
                                                         name="C12Year2" id="C12Year2oui" value="oui" />
                                                     <label class="form-check-label" for="C12Year2oui">Il y a
-                                                        Déficitaire</label>
+                                                        Deficit</label>
                                                 </div>
                                                 <div class="col-auto">
                                                     <input class="form-check-input" type="radio" v-model="C12Year2"
                                                         name="C12Year2" id="C12Year2non" value="non" />
                                                     <label class="form-check-label" for="C12Year2non">il n'y a pas
-                                                        Déficitaire</label>
+                                                        Deficit</label>
                                                 </div>
                                             </div>
                                         </div>
@@ -1339,13 +1339,13 @@
                                                     <input class="form-check-input" type="radio" v-model="C12Year3"
                                                         name="C12Year3" id="C12Year3oui" value="oui" />
                                                     <label class="form-check-label" for="C12Year3oui">Il y a
-                                                        Déficitaire</label>
+                                                        Deficit</label>
                                                 </div>
                                                 <div class="col-auto">
                                                     <input class="form-check-input" type="radio" v-model="C12Year3"
                                                         name="C12Year3" id="C12Year3non" value="non" />
                                                     <label class="form-check-label" for="C12Year3non">il n'y a pas
-                                                        Déficitaire</label>
+                                                        Deficit</label>
                                                 </div>
                                             </div>
                                         </div>
@@ -1363,13 +1363,13 @@
                                                     <input class="form-check-input" type="radio" v-model="C12Year4"
                                                         name="C12Year4" id="C12Year4oui" value="oui" />
                                                     <label class="form-check-label" for="C12Year4oui">Il y a
-                                                        Déficitaire</label>
+                                                        Deficit</label>
                                                 </div>
                                                 <div class="col-auto">
                                                     <input class="form-check-input" type="radio" v-model="C12Year4"
                                                         name="C12Year4" id="C12Year4non" value="non" />
                                                     <label class="form-check-label" for="C12Year4non">il n'y a pas
-                                                        Déficitaire</label>
+                                                        Deficit</label>
                                                 </div>
                                             </div>
                                         </div>
